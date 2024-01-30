@@ -37,7 +37,7 @@ are any.
 
 ## Example (Round Robin with quantum=2)
 
--Comments start with '#' and are not ready by the program
+-Comments start with '#' and are not read by the program
 
 ### Sample input file
 
